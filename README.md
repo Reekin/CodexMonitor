@@ -1,6 +1,6 @@
 # Feature: Chat Tree
 
-<video src="docs/assets/chat-tree-demo.mp4" controls="controls" width="100%" height="auto"></video>
+https://github.com/Reekin/CodexMonitor/blob/feat/chattree-integration/docs/assets/chat-tree-demo.mp4
 
 This branch is intended to be used together with [`Reekin/codex`](https://github.com/Reekin/codex/tree/codex/chat-tree).
 

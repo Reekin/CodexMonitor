@@ -1220,9 +1220,9 @@
   cursor: default;
 }
 
-.chat-tree-graph-node-button:hover,
-.chat-tree-graph-node-button:active,
-.chat-tree-graph-node-button:focus-visible {
+button.chat-tree-graph-node-button:hover,
+button.chat-tree-graph-node-button:active,
+button.chat-tree-graph-node-button:focus-visible {
   transform: translate(-50%, -50%);
   box-shadow: none;
 }
